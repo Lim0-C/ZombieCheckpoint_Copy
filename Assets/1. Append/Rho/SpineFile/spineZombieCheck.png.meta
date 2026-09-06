@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: ff12783d83057154db09e08554585b88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6826885370239356452
+    second: spineZombieCheck_0
+  - first:
+      213: -8362569050609821918
+    second: spineZombieCheck_1
+  - first:
+      213: 8325877327899921483
+    second: spineZombieCheck_2
+  - first:
+      213: 4107264568529336286
+    second: spineZombieCheck_3
+  - first:
+      213: -2634951734524636554
+    second: spineZombieCheck_4
+  - first:
+      213: 7253894808984354112
+    second: spineZombieCheck_5
+  - first:
+      213: -7678459890619060829
+    second: spineZombieCheck_6
+  - first:
+      213: -4988016185041462803
+    second: spineZombieCheck_7
+  - first:
+      213: -4599115044872169091
+    second: spineZombieCheck_8
+  - first:
+      213: 1991214429322091956
+    second: spineZombieCheck_9
+  - first:
+      213: -7029235818562339737
+    second: spineZombieCheck_10
+  - first:
+      213: -8712183684954779964
+    second: spineZombieCheck_11
+  - first:
+      213: -782448835496013612
+    second: spineZombieCheck_12
+  - first:
+      213: -3339478499478368063
+    second: spineZombieCheck_13
+  - first:
+      213: 1890907678714849065
+    second: spineZombieCheck_14
+  - first:
+      213: -3751780395461206500
+    second: spineZombieCheck_15
+  - first:
+      213: 7503839238716502430
+    second: spineZombieCheck_16
+  - first:
+      213: -4791402473708352387
+    second: spineZombieCheck_17
+  - first:
+      213: -7633387126663669557
+    second: spineZombieCheck_18
+  - first:
+      213: 5408301042149868889
+    second: spineZombieCheck_19
+  - first:
+      213: -5972850892323089181
+    second: spineZombieCheck_20
+  - first:
+      213: -4840607771994572581
+    second: spineZombieCheck_21
+  - first:
+      213: 4163964866165214083
+    second: spineZombieCheck_22
+  - first:
+      213: -6315642991761741165
+    second: spineZombieCheck_23
+  - first:
+      213: 1412459370347318701
+    second: spineZombieCheck_24
+  - first:
+      213: -3814204332554971432
+    second: spineZombieCheck_25
+  - first:
+      213: 4633953493413511996
+    second: spineZombieCheck_26
+  - first:
+      213: 6775961742668021168
+    second: spineZombieCheck_27
+  - first:
+      213: 21306668914927560
+    second: spineZombieCheck_28
+  - first:
+      213: 3201477304258201126
+    second: spineZombieCheck_29
+  - first:
+      213: 2143563633784891324
+    second: spineZombieCheck_30
+  - first:
+      213: -5501998306919728072
+    second: spineZombieCheck_31
+  - first:
+      213: -1858751851943640123
+    second: spineZombieCheck_32
+  - first:
+      213: 5674979716135731032
+    second: spineZombieCheck_33
+  - first:
+      213: -4410003353672033975
+    second: spineZombieCheck_34
+  - first:
+      213: 7713688739377173148
+    second: spineZombieCheck_35
+  - first:
+      213: 1708433705470334139
+    second: spineZombieCheck_36
+  - first:
+      213: 8145920220459907896
+    second: spineZombieCheck_37
+  - first:
+      213: 8301397717547667009
+    second: spineZombieCheck_38
+  - first:
+      213: -6438034728475897405
+    second: spineZombieCheck_39
+  - first:
+      213: -4777843905664608676
+    second: spineZombieCheck_40
+  - first:
+      213: -243009228297855084
+    second: spineZombieCheck_41
+  - first:
+      213: 4324448549938856650
+    second: spineZombieCheck_42
+  - first:
+      213: -2308214370553457652
+    second: spineZombieCheck_43
+  - first:
+      213: 8617650153052301696
+    second: spineZombieCheck_44
+  - first:
+      213: 1404964230975662495
+    second: spineZombieCheck_45
+  - first:
+      213: -5104914068265036886
+    second: spineZombieCheck_46
+  - first:
+      213: 3540104303830851888
+    second: spineZombieCheck_47
+  - first:
+      213: 7685691215149852517
+    second: spineZombieCheck_48
+  - first:
+      213: 8516047984158971754
+    second: spineZombieCheck_49
+  - first:
+      213: 8442967301674566747
+    second: spineZombieCheck_50
+  - first:
+      213: -1635535820712960033
+    second: spineZombieCheck_51
+  - first:
+      213: 8966700083518860507
+    second: spineZombieCheck_52
+  - first:
+      213: 8203463070387942702
+    second: spineZombieCheck_53
+  - first:
+      213: -3872933911733178275
+    second: spineZombieCheck_54
+  - first:
+      213: 360896414512866694
+    second: spineZombieCheck_55
+  - first:
+      213: 8259541775894738301
+    second: spineZombieCheck_56
+  - first:
+      213: 2457822049347135853
+    second: spineZombieCheck_57
+  - first:
+      213: 5018477367466671414
+    second: spineZombieCheck_58
+  - first:
+      213: 8256565780576623318
+    second: spineZombieCheck_59
+  - first:
+      213: 3778012523024664310
+    second: spineZombieCheck_60
+  - first:
+      213: -5513667303220753129
+    second: spineZombieCheck_61
+  - first:
+      213: 5076565494418434806
+    second: spineZombieCheck_62
+  - first:
+      213: 2384301270539493458
+    second: spineZombieCheck_63
+  - first:
+      213: -6276550082413310524
+    second: spineZombieCheck_64
+  - first:
+      213: -1502425245020503486
+    second: spineZombieCheck_65
+  - first:
+      213: -1175602845826176773
+    second: spineZombieCheck_66
+  - first:
+      213: -2460201258012559254
+    second: spineZombieCheck_67
+  - first:
+      213: 5730481084984474920
+    second: spineZombieCheck_68
+  - first:
+      213: 1806326805132371568
+    second: spineZombieCheck_69
+  - first:
+      213: 2177203243712075876
+    second: spineZombieCheck_70
+  - first:
+      213: 3720479690410298422
+    second: spineZombieCheck_71
+  - first:
+      213: 2865506813130667428
+    second: spineZombieCheck_72
+  - first:
+      213: -2491218026194195747
+    second: spineZombieCheck_73
+  - first:
+      213: 7364542010708156162
+    second: spineZombieCheck_74
+  - first:
+      213: -920637407461278571
+    second: spineZombieCheck_75
+  - first:
+      213: 4835738911340938432
+    second: spineZombieCheck_76
+  - first:
+      213: -7503664878949547546
+    second: spineZombieCheck_77
+  - first:
+      213: -7490498887571778704
+    second: spineZombieCheck_78
+  - first:
+      213: -8580288758627794826
+    second: spineZombieCheck_79
+  - first:
+      213: 7492341981569286616
+    second: spineZombieCheck_80
+  - first:
+      213: -3689423058316636858
+    second: spineZombieCheck_81
+  - first:
+      213: 8911000619522247535
+    second: spineZombieCheck_82
+  - first:
+      213: -5298455591654288724
+    second: spineZombieCheck_83
+  - first:
+      213: 6636757027989404044
+    second: spineZombieCheck_84
+  - first:
+      213: -779018681876033687
+    second: spineZombieCheck_85
+  - first:
+      213: -2082154609792531339
+    second: spineZombieCheck_86
+  - first:
+      213: -4491445850124318026
+    second: spineZombieCheck_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spineZombieCheck_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 435
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd172981de70241a0800000000000000
+      internalID: -6826885370239356452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 429
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227d9b851cf22fb80800000000000000
+      internalID: -8362569050609821918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 432
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c04fc31557b8370800000000000000
+      internalID: 8325877327899921483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 421
+        width: 115
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed73db52d5feff830800000000000000
+      internalID: 4107264568529336286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 510
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721c57ab55ce6bd0800000000000000
+      internalID: -2634951734524636554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 473
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dff8f55e20ba460800000000000000
+      internalID: 7253894808984354112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 416
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ade0956961a07590800000000000000
+      internalID: -7678459890619060829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 416
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de954b415b107cab0800000000000000
+      internalID: -4988016185041462803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_8
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 407
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d795d3ddb39ac20c0800000000000000
+      internalID: -4599115044872169091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_9
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 387
+        width: 145
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd106b39f632ab10800000000000000
+      internalID: 1991214429322091956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_10
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 375
+        width: 152
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cb328f343237e90800000000000000
+      internalID: -7029235818562339737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_11
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 374
+        width: 136
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce0150091b181780800000000000000
+      internalID: -8712183684954779964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_12
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 373
+        width: 50
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d097510eee2425f0800000000000000
+      internalID: -782448835496013612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_13
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 373
+        width: 50
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0998f7ff9c7a1d0800000000000000
+      internalID: -3339478499478368063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_14
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 373
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9276bdce38add3a10800000000000000
+      internalID: 1890907678714849065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_15
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 467
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e924dab9ffeebc0800000000000000
+      internalID: -3751780395461206500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_16
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 403
+        width: 130
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91b553d70ef22860800000000000000
+      internalID: 7503839238716502430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_17
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 454
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c8faa06d4818db0800000000000000
+      internalID: -4791402473708352387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 444
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc81c2a0ad2c01690800000000000000
+      internalID: -7633387126663669557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 433
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955c7b7b4252e0b40800000000000000
+      internalID: 5408301042149868889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_20
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e415ba42cb2c1da0800000000000000
+      internalID: -5972850892323089181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 450
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b445c0e4b2dcb0800000000000000
+      internalID: -4840607771994572581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 416
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b0cf0fbff59c930800000000000000
+      internalID: 4163964866165214083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_23
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 416
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a2bd329245a58a0800000000000000
+      internalID: -6315642991761741165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_24
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 367
+        width: 66
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad493550501a9310800000000000000
+      internalID: 1412459370347318701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_25
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 367
+        width: 73
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d61e493e59311bc0800000000000000
+      internalID: -3814204332554971432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_26
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 412
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33c798862c1f4040800000000000000
+      internalID: 4633953493413511996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_27
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 412
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd3d5bed4d090e50800000000000000
+      internalID: 6775961742668021168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 191
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c765007d42bb4000800000000000000
+      internalID: 21306668914927560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_29
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 425
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62609c465aeed6c20800000000000000
+      internalID: 3201477304258201126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_30
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 431
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7a13194c77fbd10800000000000000
+      internalID: 2143563633784891324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 435
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cbf31d0b9f4a3b0800000000000000
+      internalID: -5501998306919728072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_32
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 396
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3cc4be9036436e0800000000000000
+      internalID: -1858751851943640123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 211
+        width: 173
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f31d70cf391ce40800000000000000
+      internalID: 5674979716135731032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 213
+        width: 164
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949d816a0558cc2c0800000000000000
+      internalID: -4410003353672033975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 213
+        width: 197
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92d1822a078c0b60800000000000000
+      internalID: 7713688739377173148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_36
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 213
+        width: 180
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb41dd8476395b710800000000000000
+      internalID: 1708433705470334139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_37
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 194
+        width: 59
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b3f25184f1c0170800000000000000
+      internalID: 8145920220459907896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_38
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 346
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ecaadcd3d743370800000000000000
+      internalID: 8301397717547667009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_39
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 353
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d09d468187a6a0800000000000000
+      internalID: -6438034728475897405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_40
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 346
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56989a2840b1bdb0800000000000000
+      internalID: -4777843905664608676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_41
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 346
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f1a26f468a0acf0800000000000000
+      internalID: -243009228297855084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_42
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 324
+        width: 143
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20f845b07830c30800000000000000
+      internalID: 4324448549938856650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_43
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 287
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0495b9624397ffd0800000000000000
+      internalID: -2308214370553457652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_44
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 287
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e54be72b089770800000000000000
+      internalID: 8617650153052301696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_45
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 297
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f992f65368f6f7310800000000000000
+      internalID: 1404964230975662495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_46
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 284
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31b20b3b3b729b0800000000000000
+      internalID: -5104914068265036886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_47
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 279
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0316ba9ab1af02130800000000000000
+      internalID: 3540104303830851888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_48
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 276
+        width: 73
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e85c807f09aa60800000000000000
+      internalID: 7685691215149852517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_49
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 273
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a671af985841f2670800000000000000
+      internalID: 8516047984158971754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_50
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 267
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b540d8237027b2570800000000000000
+      internalID: 8442967301674566747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 195
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf1af426d86d49e0800000000000000
+      internalID: -1635535820712960033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1
+        width: 197
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc6b95e73e107c70800000000000000
+      internalID: 8966700083518860507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_53
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1
+        width: 168
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25328ed23e88d170800000000000000
+      internalID: 8203463070387942702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_54
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 196
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5074908023904ac0800000000000000
+      internalID: -3872933911733178275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_55
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1
+        width: 180
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68560cb7069220500800000000000000
+      internalID: 360896414512866694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_56
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 194
+        width: 147
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7574b7fb79cf9270800000000000000
+      internalID: 8259541775894738301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_57
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 179
+        width: 136
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69657cb120fb1220800000000000000
+      internalID: 2457822049347135853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_58
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 144
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d3031a39635a540800000000000000
+      internalID: 5018477367466671414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_59
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 144
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5aef05d6359270800000000000000
+      internalID: 8256565780576623318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_60
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 144
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6ccd77f523e6430800000000000000
+      internalID: 3778012523024664310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_61
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 144
+        width: 50
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d47d5ecc48b73b0800000000000000
+      internalID: -5513667303220753129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_62
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 144
+        width: 50
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae0dd9b65937640800000000000000
+      internalID: 5076565494418434806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_63
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 144
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250e40c7f5db61120800000000000000
+      internalID: 2384301270539493458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_64
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 140
+        width: 66
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd4ec264f635e8a0800000000000000
+      internalID: -6276550082413310524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_65
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 140
+        width: 73
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24249f82330562be0800000000000000
+      internalID: -1502425245020503486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_66
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 137
+        width: 73
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8a799b07b6fafe0800000000000000
+      internalID: -1175602845826176773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_67
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 137
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6831349dfb9bddd0800000000000000
+      internalID: -2460201258012559254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_68
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 128
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d38967f22c68f40800000000000000
+      internalID: 5730481084984474920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_69
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 164
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0766e20b8ac511910800000000000000
+      internalID: 1806326805132371568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_70
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1
+        width: 177
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468594990daf63e10800000000000000
+      internalID: 2177203243712075876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_71
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 153
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c06f4019cc1a330800000000000000
+      internalID: 3720479690410298422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_72
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1
+        width: 147
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a57d12b34354c720800000000000000
+      internalID: 2865506813130667428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_73
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 153
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda25aa776a6d6dd0800000000000000
+      internalID: -2491218026194195747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_74
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f53b190fb143660800000000000000
+      internalID: 7364542010708156162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_75
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c7559d72d3933f0800000000000000
+      internalID: -920637407461278571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_76
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c2054beefb1340800000000000000
+      internalID: 4835738911340938432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_77
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e143a87c80add790800000000000000
+      internalID: -7503664878949547546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_78
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1
+        width: 50
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07353d7b2f66c0890800000000000000
+      internalID: -7490498887571778704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_79
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1
+        width: 50
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67086b795d0bce880800000000000000
+      internalID: -8580288758627794826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_80
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1
+        width: 66
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d10f2b06552af760800000000000000
+      internalID: 7492341981569286616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_81
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1
+        width: 66
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc6ee96498cccc0800000000000000
+      internalID: -3689423058316636858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_82
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1
+        width: 73
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc8e7d9db3aab70800000000000000
+      internalID: 8911000619522247535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_83
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1
+        width: 77
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2934936ba1876b0800000000000000
+      internalID: -5298455591654288724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_84
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 72
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b2e99a5f7a1c50800000000000000
+      internalID: 6636757027989404044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_85
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 79
+        width: 122
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fc261e2ae5035f0800000000000000
+      internalID: -779018681876033687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_86
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1
+        width: 122
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574cfd30a63ba13e0800000000000000
+      internalID: -2082154609792531339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineZombieCheck_87
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba0077cbcd2ba1c0800000000000000
+      internalID: -4491445850124318026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spineZombieCheck_0: -6826885370239356452
+      spineZombieCheck_1: -8362569050609821918
+      spineZombieCheck_10: -7029235818562339737
+      spineZombieCheck_11: -8712183684954779964
+      spineZombieCheck_12: -782448835496013612
+      spineZombieCheck_13: -3339478499478368063
+      spineZombieCheck_14: 1890907678714849065
+      spineZombieCheck_15: -3751780395461206500
+      spineZombieCheck_16: 7503839238716502430
+      spineZombieCheck_17: -4791402473708352387
+      spineZombieCheck_18: -7633387126663669557
+      spineZombieCheck_19: 5408301042149868889
+      spineZombieCheck_2: 8325877327899921483
+      spineZombieCheck_20: -5972850892323089181
+      spineZombieCheck_21: -4840607771994572581
+      spineZombieCheck_22: 4163964866165214083
+      spineZombieCheck_23: -6315642991761741165
+      spineZombieCheck_24: 1412459370347318701
+      spineZombieCheck_25: -3814204332554971432
+      spineZombieCheck_26: 4633953493413511996
+      spineZombieCheck_27: 6775961742668021168
+      spineZombieCheck_28: 21306668914927560
+      spineZombieCheck_29: 3201477304258201126
+      spineZombieCheck_3: 4107264568529336286
+      spineZombieCheck_30: 2143563633784891324
+      spineZombieCheck_31: -5501998306919728072
+      spineZombieCheck_32: -1858751851943640123
+      spineZombieCheck_33: 5674979716135731032
+      spineZombieCheck_34: -4410003353672033975
+      spineZombieCheck_35: 7713688739377173148
+      spineZombieCheck_36: 1708433705470334139
+      spineZombieCheck_37: 8145920220459907896
+      spineZombieCheck_38: 8301397717547667009
+      spineZombieCheck_39: -6438034728475897405
+      spineZombieCheck_4: -2634951734524636554
+      spineZombieCheck_40: -4777843905664608676
+      spineZombieCheck_41: -243009228297855084
+      spineZombieCheck_42: 4324448549938856650
+      spineZombieCheck_43: -2308214370553457652
+      spineZombieCheck_44: 8617650153052301696
+      spineZombieCheck_45: 1404964230975662495
+      spineZombieCheck_46: -5104914068265036886
+      spineZombieCheck_47: 3540104303830851888
+      spineZombieCheck_48: 7685691215149852517
+      spineZombieCheck_49: 8516047984158971754
+      spineZombieCheck_5: 7253894808984354112
+      spineZombieCheck_50: 8442967301674566747
+      spineZombieCheck_51: -1635535820712960033
+      spineZombieCheck_52: 8966700083518860507
+      spineZombieCheck_53: 8203463070387942702
+      spineZombieCheck_54: -3872933911733178275
+      spineZombieCheck_55: 360896414512866694
+      spineZombieCheck_56: 8259541775894738301
+      spineZombieCheck_57: 2457822049347135853
+      spineZombieCheck_58: 5018477367466671414
+      spineZombieCheck_59: 8256565780576623318
+      spineZombieCheck_6: -7678459890619060829
+      spineZombieCheck_60: 3778012523024664310
+      spineZombieCheck_61: -5513667303220753129
+      spineZombieCheck_62: 5076565494418434806
+      spineZombieCheck_63: 2384301270539493458
+      spineZombieCheck_64: -6276550082413310524
+      spineZombieCheck_65: -1502425245020503486
+      spineZombieCheck_66: -1175602845826176773
+      spineZombieCheck_67: -2460201258012559254
+      spineZombieCheck_68: 5730481084984474920
+      spineZombieCheck_69: 1806326805132371568
+      spineZombieCheck_7: -4988016185041462803
+      spineZombieCheck_70: 2177203243712075876
+      spineZombieCheck_71: 3720479690410298422
+      spineZombieCheck_72: 2865506813130667428
+      spineZombieCheck_73: -2491218026194195747
+      spineZombieCheck_74: 7364542010708156162
+      spineZombieCheck_75: -920637407461278571
+      spineZombieCheck_76: 4835738911340938432
+      spineZombieCheck_77: -7503664878949547546
+      spineZombieCheck_78: -7490498887571778704
+      spineZombieCheck_79: -8580288758627794826
+      spineZombieCheck_8: -4599115044872169091
+      spineZombieCheck_80: 7492341981569286616
+      spineZombieCheck_81: -3689423058316636858
+      spineZombieCheck_82: 8911000619522247535
+      spineZombieCheck_83: -5298455591654288724
+      spineZombieCheck_84: 6636757027989404044
+      spineZombieCheck_85: -779018681876033687
+      spineZombieCheck_86: -2082154609792531339
+      spineZombieCheck_87: -4491445850124318026
+      spineZombieCheck_9: 1991214429322091956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
